@@ -2,10 +2,10 @@
 
 ## Table of content
 
-* [Introduction](#Introduction "Go to the section")</br>
-* [Setup](#Setup "Go to the section")</br>
-* [How to play](#How-to-play "Go to the section")</br>
-* [License](#License "Go to the section")</br>
+* [Introduction](#Introduction "Go to the section")
+* [Setup](#Setup "Go to the section")
+* [How to play](#How-to-play "Go to the section")
+* [License](#License "Go to the section")
 
 ## Introduction
 

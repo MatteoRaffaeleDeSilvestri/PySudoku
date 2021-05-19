@@ -5,6 +5,9 @@
 * [Introduction](#Introduction "Go to the section")
 * [Setup](#Setup "Go to the section")
 * [How to play](#How-to-play "Go to the section")
+    - [Play](#Play "Go to the subsection")
+    - [Solve](#Solve "Go to the subsection")
+    - [Stats](#Stats "Go to the subsection")
 * [License](#License "Go to the section")
 
 ## Introduction

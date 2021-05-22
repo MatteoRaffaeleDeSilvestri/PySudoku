@@ -21,7 +21,7 @@ The main purposes of this application are both to give a good playing experience
 ## Setup
 
 This program has been written and tested in <b><i> Python 3.8.5</i></b>.</br>
-To run this program the following modules are required:
+To run this program the following libraries are required:
 
 <ul>
     <li><b>Pygame</b> (version: <i>2.0.1</i>);</li>

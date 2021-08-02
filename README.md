@@ -35,7 +35,7 @@ If not already present on the system, they can be installed individually (<u><i>
 2. Type the following command in the terminal:
 
     ```console
-    pip3 install -r requirements.txt
+    pip install -r requirements.txt
     ```
 
 Because all other modules used are part of the <i> Python Standard Library</i> they are already included in Python and don't need to be installed.</br>

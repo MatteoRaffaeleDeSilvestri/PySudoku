@@ -588,8 +588,8 @@ def status_bar_animation(progress, mode):
     # Animate status bar during solving process
 
     if mode == 'Play':
-        pygame.draw.rect(screen, background_color, (735, 412, 90, 37))
-        pygame.draw.rect(screen, adv_bar_color, (585, 414, (393 * progress) // 100, 33))
+        pygame.draw.rect(screen, background_color, (735, 412, 90, 35))
+        pygame.draw.rect(screen, adv_bar_color, (585, 414, (393 * progress) // 100, 32))
         adv_label = field_label.render(str(progress) + '%', True, black)
         if progress <= 9:
             screen.blit(adv_label, (760, 411))
@@ -599,8 +599,8 @@ def status_bar_animation(progress, mode):
             screen.blit(adv_label, (741, 411))
     
     elif mode == 'Solve':
-        pygame.draw.rect(screen, background_color, (735, 402, 90, 37))
-        pygame.draw.rect(screen, adv_bar_color, (585, 404, (393 * progress) // 100, 33))
+        pygame.draw.rect(screen, background_color, (735, 402, 90, 35))
+        pygame.draw.rect(screen, adv_bar_color, (585, 404, (393 * progress) // 100, 32))
         adv_label = field_label.render(str(progress) + '%', True, black)
         if progress <= 9:
             screen.blit(adv_label, (760, 401))
